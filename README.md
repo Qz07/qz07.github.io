@@ -4,7 +4,7 @@ Hi! I'm Sara, a current student at UCSD majoring in Data Science and Cognitive S
 
 Apart from acedemics, I practice sports in Archery, and Baminton with instructional classes every quarter at UCSD.
 
-<div align="center">[Email](sarazhengqz@gmail.com) / [Resume](assets/Qz_fall23.pdf) / [GitHub](https://github.com/Qz07) / [LinkedIn](https://www.linkedin.com/in/qirui-zheng-b47235263)</div>
+-- [Email](sarazhengqz@gmail.com) -- [Resume](assets/Qz_fall23.pdf) -- [GitHub](https://github.com/Qz07) -- [LinkedIn](https://www.linkedin.com/in/qirui-zheng-b47235263) --
 
 
 # Projects 
