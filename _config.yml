@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Qirui Zheng
 description: UCSD Undergraduate Student majoring in Data Science and Cognitive Science
-description: <iframe src="assets/qz-img.jpeg" width=800 height=600 frameBorder=0></iframe>
+logo: assets/qz-img.jpeg
