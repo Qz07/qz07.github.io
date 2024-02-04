@@ -9,6 +9,12 @@ Apart from acedemics, I practice sports in Archery, and Baminton with instructio
  -- [Resume](assets/Qz_fall23.pdf) -- [GitHub](https://github.com/Qz07) -- [LinkedIn](https://www.linkedin.com/in/qirui-zheng-b47235263) --
 
 
+# Internships
+
+### NEATLABS
+
+I am presently serving as an Assistant Research Intern at [Neatlabs](https://neatlabs.ucsd.edu/), where my primary focus lies in assessing the effectiveness of treatments for depressed patients by utilizing EEG data for analysis. Utilized tools in MATLAB - EEGLAB. 
+
 # Projects 
 Data Science, an emerging field over the past decade, is brimming with potential. I am eager to explore the intersections of this field with others and uncover the benefits it can bring to society's growth.
 
