@@ -1,12 +1,12 @@
 # Qirui Zheng (Sara)
 
-Hi! I'm Sara, a current student at UCSD majoring in Data Science and Cognitive Science specializing in Machine Learning and Neural Computation, with a minor in Business Economics. I am interested in the intersection of Data Science with other domains. Currently looking to pursue the path of Deep Learning and or Brain Computer Interfaces. The current algorithms are modeled to align with the neuro system in the brain, it contains many more potentials yet to be discovered.
+Hi! I'm Sara, a current student at UCSD majoring in Data Science and Cognitive Science specializing in Machine Learning and Neural Computation, with a minor in Business Economics. I am interested in the intersection of Data Science with other domains. Currently looking to pursue the path of Deep Learning and or Brain-Computer Interfaces. The current algorithms are modeled to align with the neuro system in the brain, it contains many more potentials yet to be discovered.
 
-Apart from acedemics, I practice sports in Archery, and Baminton with instructional classes every quarter at UCSD.
+Apart from academics, I practice sports in Archery, and Badminton with instructional classes every quarter at UCSD.
 
 **Email**: [sarazhengqz@gmail.com](sarazhengqz@gmail.com)
 
- -- [Resume](assets/Qz_fall23.pdf) -- [GitHub](https://github.com/Qz07) -- [LinkedIn](https://www.linkedin.com/in/qirui-zheng-b47235263) --
+ -- [Resume](assets/Qz_wi24.pdf) -- [GitHub](https://github.com/Qz07) -- [LinkedIn](https://www.linkedin.com/in/qirui-zheng-b47235263) --
 
 
 # Internships
